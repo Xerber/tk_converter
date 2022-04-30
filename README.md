@@ -1,2 +1,2 @@
 # tk_converter
-A simple converter using tkinter
+A simple converter that can convert seconds to time (H:M:S), unixtime to time (Y-m-d H:M:S), fahrenheit to celsius and celsius to fahrenheit. There is a History tab that stores your operations from the moment the program was launched, there is also a scrollbar if there are a lot of operations.
